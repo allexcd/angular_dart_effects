@@ -20,5 +20,8 @@ Decorators usage
 The Ripple Effect
 
 Add the decorator to any element:
+
+```html
 <div ripple-effect>Content</div>
 <a ripple-effect>Content</a>
+```
