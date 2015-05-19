@@ -1,0 +1,15 @@
+.square {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+}
+
+.blue {
+    background-color: #170744;
+}
+
+.green {
+    background-color: #526055;
+}
